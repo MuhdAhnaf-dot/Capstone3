@@ -95,6 +95,9 @@ Tensorboard Epoch Loss:
 ![alt text](<Epoch Loss.png>)
 
 
+Architecture
+![alt text](model.png)
+
 Results and Performance
 
 The model achieves high accuracy (>85%) and an F1-score >0.7.
