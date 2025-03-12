@@ -96,7 +96,7 @@ Tensorboard Epoch Loss:
 
 
 Architecture
-![alt text](modelarci-1.png)
+![alt text](modelarci.png)
 
 Results and Performance
 
